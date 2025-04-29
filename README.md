@@ -7,3 +7,7 @@
 #### Bayes(贝叶斯预测)
 #### Markov_chain_transition_matrix(马尔科夫链转移矩阵预测)
 #### json_to_df(json文件转化成df)
+
+
+
+爬取数据和预测都仅限于学习技术！！！
